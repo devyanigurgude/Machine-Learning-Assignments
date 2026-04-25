@@ -1,9 +1,0 @@
-House_ID,Location,Bedrooms,Bathrooms,Area_sqft,Year_Built,Parking,Price_Lakhs
-1,Pune,2,1,850,2015,1,45
-2,Mumbai,NaN,2,1200,2012,1,120
-3,Delhi,4,3,1800,2018,2,95
-4,Bangalore,3,2,NaN,2016,1,85
-5,Chennai,2,1,900,2010,0,60
-6,Pune,3,2,1400,2019,1,78
-7,Mumbai,4,3,2000,2014,2,150
-8,Delhi,2,1,800,2008,0,55
